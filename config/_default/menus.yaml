@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 5af2aa71-9c80-4dbb-bdb2-069dc17d10a2
+  name: page
+  url: /pages/site01-page
+  weight: 10
