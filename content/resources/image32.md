@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/1-site01-spring-2022/image4.png
+file: /media/courses/1-site01-spring-2022/image32.png
 file_type: image/png
 image_metadata:
   caption: ''
@@ -11,8 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
-title: image4.png
-uid: 602b49c6-2e2e-4d4a-852e-a14d0ae122d0
+title: image3.png
+uid: 7760f366-6b3a-4ec0-aee4-6378ecfedd2c
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
