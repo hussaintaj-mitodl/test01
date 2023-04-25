@@ -3,3 +3,7 @@ leftnav:
   name: page
   url: /pages/site01-page
   weight: 10
+- identifier: 7760f366-6b3a-4ec0-aee4-6378ecfedd2c
+  name: link
+  url: /resources/image32
+  weight: 20
